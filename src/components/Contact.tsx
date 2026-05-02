@@ -36,7 +36,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-[9px] uppercase tracking-[0.3em] text-white/20 mb-2">Booking Office</p>
-                  <p className="text-lg font-serif font-light text-white">+234 812 345 6789</p>
+                  <p className="text-lg font-serif font-light text-white">+234 7064214338</p>
                 </div>
               </div>
             </div>
